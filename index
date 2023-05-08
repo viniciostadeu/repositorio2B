@@ -1,19 +1,71 @@
 <html>
-<head>
-	<meta charset="UTF-8">
-	<title>Mapa da Sala</title>
-</head>
-<body>
-	<header>
-		<h1>Mapa da Sala</h1>
-		<nav>
+	<head>
+		<title>Aula dia 31/03</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>Aula dia 31/03</h1>
+		<nav id='menu'>
 			<ul>
-				<li><a href='#'>Home</a></li>
-				<li><a href="#">Alunos</a></li>
-				<li><a href="#">Professores</a></li>
-				<li><a href="#">Colégio</a></li>
+				<li><a href=''>HOME</a></li>
+				<li><a href=''>Alunos</a></li>
+				<li><a href=''>Professor</a></li>
+				<li><a href=''>Entrar</a></li>
 			</ul>
 		</nav>
-	</header>
-</body>
+		<div class='quadrado'>
+			<div class='block'>
+				<div class='centro'>
+					<h1> colégio João Farias da Costa</h1>
+                    <p>Fundado em 1990, o colégio Joãofaria foi anunciado como patriônio estadual.</p>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
+<div class='quadrado'>
+    <div class='block'>
+        <div class='centro'>
+            <h1>professores</h1>
+            <p>jhonata</p>
+            <p>edilene</p>
+            <p>rosilda</p>
+            <p>edivaldo</p>
+            <p>marcia</p>
+            <p>sirlene</p>
+            <p>jocimara</p>
+            <p>edinha</p>
+            <p>joaquina</p>
+
+        </div>
+    </div>
+</div>
+<div class='quadrado'>
+    <div class='block'>
+        <div class='centro'>
+            <h1>turma</h1>
+            <p>vinicios tadeu kovalik</p>
+            <p>ana claudia de lara</p>
+            <p>bruno afonso pereira</p>
+            <p>joão vitor</p>
+            <p>leidiane</p>
+            <p>elizeviln</p>
+            <p>daniele</p>
+            <p>igor</p>
+            <p>gabriela</p>
+            <p>gabrielly</p>
+            <p>andrei</p>
+            <p>julia</p>
+            <p>maria clara</p>
+            <p>renato</p>
+            <p>kauan</p>
+        </div>
+    </div>
+</div>
+<div class='quadrado'>
+    <div class='block'>
+        <div class='centro'>
+            <h1>recados</h1>
+        </div>
+    </div>
+</div>
